@@ -1,0 +1,74 @@
+[
+    {
+        "rating": "5.0 | 200+ rating",
+        "priceCorect": "6.000",
+        "price": 4500,
+        "discount": "10%",
+        "title": "Lorem ipsum",
+        "imageUrl": "assets/images/image1.png",
+        "color": "item1"
+    },
+    {
+        "rating": "5.0 | 200+ rating",
+        "priceCorect": "6.000",
+        "price": 4500,
+        "discount": "10%",
+        "title": "Lorem ipsum",
+        "imageUrl": "assets/images/image2.png",
+        "color": "item2"
+    },
+    {
+        "rating": "5.0 | 200+ rating",
+        "priceCorect": "6.000",
+        "price": 4500,
+        "discount": "10%",
+        "title": "Lorem ipsum",
+        "imageUrl": "assets/images/image3.png",
+        "color": "item1"
+    },
+    {
+        "rating": "5.0 | 200+ rating",
+        "priceCorect": "6.000",
+        "price": 4500,
+        "discount": "10%",
+        "title": "Lorem ipsum",
+        "imageUrl": "assets/images/image4.png",
+        "color": "item1"
+    },
+    {
+        "rating": "5.0 | 200+ rating",
+        "priceCorect": "6.000",
+        "price": 4500,
+        "discount": "10%",
+        "title": "Lorem ipsum",
+        "imageUrl": "assets/images/image5.png",
+        "color": "item3"
+    },
+    {
+        "rating": "5.0 | 200+ rating",
+        "priceCorect": "6.000",
+        "price": 4500,
+        "discount": "10%",
+        "title": "Lorem ipsum",
+        "imageUrl": "assets/images/image6.png",
+        "color": "item1"
+    },
+    {
+        "rating": "5.0 | 200+ rating",
+        "priceCorect": "6.000",
+        "price": 4500,
+        "discount": "10%",
+        "title": "Lorem ipsum",
+        "imageUrl": "assets/images/image7.png",
+        "color": "item1"
+    },
+    {
+        "rating": "5.0 | 200+ rating",
+        "priceCorect": "6.000",
+        "price": 4500,
+        "discount": "10%",
+        "title": "Lorem ipsum",
+        "imageUrl": "assets/images/image8.png",
+        "color": "item1"
+    }
+]
